@@ -1,6 +1,6 @@
 <div align=center>
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchaeyeonkim0223&count_bg=%2379C83D&title_bg=%23555555&icon=coveralls.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSu-bro&count_bg=%2379C83D&title_bg=%23555555&icon=coveralls.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
 </div>
 
@@ -26,9 +26,7 @@
 ### 🧾 Used Language
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Su-bro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<h3 align="center">A passionate frontend developer from India</h3>
+<-- -   ->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=su-bro&label=Profile%20views&color=0e75b6&style=flat" alt="su-bro" /> </p>
 
