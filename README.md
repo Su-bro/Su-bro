@@ -4,10 +4,9 @@
   
 </div>
 
-<h1 align="center">🌎 Hello ChaeyeonKim's GitHub 🌎</h1>
+<h1 align="center">🌎 Subro's GitHub 🌎</h1>
 <div>- 🔭 현재 삼성 청년 SW 아카데미에서 공부하고 있습니다. </div>
 <div>- 🌱 요즘 공부하는 것들은 알고리즘 & 웹 입니다. </div>
-<div>- 👯 반갑습니다~ </div>
 
 <h3>💯 Programming Language I've studied 💯</h3>
 
@@ -22,8 +21,8 @@
 
 ### 📊 My Stats 📊
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chaeyeonkim0223)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Su-bro)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🧾 Used Language
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaeyeonkim0223&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Su-bro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
