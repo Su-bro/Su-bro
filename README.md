@@ -8,7 +8,7 @@
 <div>- 🔥  [2021.01 ~     ]  삼성 청년 SW 아카데미 5기 (SSAFY 5th) 이수 中 </div>
 <div>- 🌱 Web BE/FE를 공부하고있습니다. </div>
 </br>
-<div><h3>🔴 YOUTUBE 🔴</h3></div>
+<div><h3>🔴 YouTube 🔴</h3></div>
 <div>https://www.youtube.com/channel/UCuo_c5OFckceSqe-JXQfEEw</div>
  
 
