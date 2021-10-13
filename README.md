@@ -9,9 +9,9 @@
 <div>- 🌱 Web BE/FE를 공부하고있습니다. </div>
 </br>
 <div><h3>🔴 YouTube 🔴</h3></div>
-<div>https://www.youtube.com/channel/UCuo_c5OFckceSqe-JXQfEEw</div>
- 
-
+<div>
+<a href="https://www.youtube.com/channel/UCuo_c5OFckceSqe-JXQfEEw"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/64/youtube_icon_130774.png"/> </a>
+<div>
 <h3>🛠 Languages and Tools I've studied 🛠</h3>
 
 <div />
