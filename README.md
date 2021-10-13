@@ -3,14 +3,14 @@
 </div>
 
 <h1 align="center">🌎 Su-bro's GitHub 🌎</h1>
-
 <div>- ✍ [2020.03 ~ 2020.08]  국가기간·전략산업직종훈련 - 빅데이터 전문가 양성과정 </div>
 <div>- 👨‍💼 [2020.08 ~ 2020.11]  2020년 공공빅데이터 청년 인턴십 - 충청남도청 정보화담당관 공공빅데이터분석 및 시각화</div>
 <div>- 🔥  [2021.01 ~     ]  삼성 청년 SW 아카데미 5기 (SSAFY 5th) 이수 中 </div>
-
-
 <div>- 🌱 Web BE/FE를 공부하고있습니다. </div>
-
+</br>
+<div><h3>🔴 YOUTUBE 🔴</h3></div>
+<div>https://www.youtube.com/channel/UCuo_c5OFckceSqe-JXQfEEw</div>
+ 
 
 <h3>🛠 Languages and Tools I've studied 🛠</h3>
 
